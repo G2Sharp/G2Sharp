@@ -2,10 +2,13 @@
 
 ## Bem-vindo(a) ao perfil do G2Sharp 😁
 
+```I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.```
+
  <div>
    <a href="https://github.com/G2Sharp">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G2Sharp&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G2Sharp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G2Sharp&layout=compact&langs_count=6&theme=dracula"/>
+   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=G2Sharp"/>
 </div>
     
 
@@ -14,7 +17,8 @@
 
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img  align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="C#" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="C#" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Python" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 <div style="display: inline_block"><br>
