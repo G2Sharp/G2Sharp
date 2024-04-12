@@ -6,7 +6,7 @@
 
  <div>
    <a href="https://github.com/G2Sharp">
-   <img height="180em" src="/api?https://g2-sharp.vercel.app/api?username=G2Sharp&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
+   <img height="180em" src="https://g2-sharp.vercel.app/api?username=G2Sharp&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
    <img height="180em" src="https://g2-sharp.vercel.app/api/top-langs/?username=G2Sharp&layout=compact&langs_count=6&theme=dracula"/>
    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=G2Sharp"/>
 </div>
