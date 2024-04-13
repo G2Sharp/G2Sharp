@@ -24,9 +24,9 @@
 
 ---
 
-<div>
+<div style="display: inline_block">
   <h2>My Trophys</h2>
-   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=G2Sharp"/>
+   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=G2Sharp&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -47,8 +47,6 @@
 </div>
  
 <br>
- 
-### 
  
 <div> 
  <!-- <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
