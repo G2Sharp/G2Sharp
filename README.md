@@ -6,7 +6,7 @@
 
 ---
 
-## I'm Problem Solver
+## I'm a Problem Solver
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅2024 Goals:
