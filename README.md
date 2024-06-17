@@ -18,8 +18,8 @@
 
  <div>
   <h2>My Current Stats</h2>
-   <img height="180em" src="https://github-readme-stats-g2sharps-projects.vercel.app/api?username=G2Sharp&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-g2sharps-projects.vercel.app/api/top-langs/?username=G2Sharp&layout=compact&langs_count=6&theme=dracula"/>  
+   <img height="180em" src="https://github-readme-stats-kappa-self.vercel.app/api?username=G2Sharp&show_icons=true&include_all_commits=true&theme=dracula&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-kappa-self.vercel.app/api/top-langs/?username=G2Sharp&layout=compact&langs_count=6&theme=dracula"/>  
 </div>
 
 ---
